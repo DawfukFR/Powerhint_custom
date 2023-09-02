@@ -59,6 +59,12 @@ set_permissions() {
   
   # set_perm $MODPATH/system/lib/libart.so 0 0 0644
   # set_perm /data/local/tmp/file.txt 0 0 644
+
+  # add patch permissions
+  set_perm_recursive $MODPATH  0  0  0755  0644
+  set_perm_recursive $MODPATH/system/vendor 0 0 0755 0644 u:object_r:same_process_hal_file:s0
+  set_perm_recursive $MODPATH/system/vendor/etc 0 0 0755 0644 u:object_r:same_process_hal_file:s0
+  set_perm $MODPATH/system/vendor/etc/powerhint.json 0 0 0644
 }
 
 ##########################################################################################

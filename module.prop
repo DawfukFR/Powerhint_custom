@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v3.5
-versionCode=17
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+id=Powerhint_BluRaviole-Rework
+name=Powerhint_Module
+version=v1.0-Rework
+versionCode=1
+author=freak07 /edit eliaura&dawfukfr
+description=This module replaces config file for bluraviole powerhal and fixes selinux conflicts
+updateJson=https://raw.githubusercontent.com/DawfukFR/powerhint_custom/master/update.json

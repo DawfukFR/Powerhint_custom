@@ -1,6 +1,6 @@
 {
-  "version": "v3.5",
-  "versionCode": 17,
-  "zipUrl": "https://raw.githubusercontent.com/Zackptg5/MMT-Extended/install.zip",
-  "changelog": "https://raw.githubusercontent.com/Zackptg5/MMT-Extended/changelog.md"
+  "version": "v1.0-Rework",
+  "versionCode": 1,
+  "zipUrl": "https://github.com/DawfukFR/powerhint_custom/releases/latest/download/Powerhint_BluRaviole.zip",
+  "changelog": "https://raw.githubusercontent.com/DawfukFR/powerhint_custom/changelog.md"
 }
