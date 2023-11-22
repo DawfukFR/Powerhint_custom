@@ -4,3 +4,7 @@
 - Rework with MMT-Extended template
 - Make it finally work with KernelSU
 - GPU Freq update to 848 Mhz
+
+### v1.1 - 22/11/23
+
+- Cleanup

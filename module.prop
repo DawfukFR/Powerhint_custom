@@ -1,6 +1,6 @@
 id=Powerhint_BluRaviole-Rework
 name=Powerhint_Module
-version=v1.0-Rework
+version=v1.1-Rework
 versionCode=1
 author=freak07 /edit eliaura&dawfukfr
 description=This module replaces config file for bluraviole powerhal and fixes selinux conflicts
